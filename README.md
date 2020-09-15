@@ -1,2 +1,2 @@
 # airbnb
-predict the 'hotness' of an airbnb property
+an exerise in predicting the 'hotness' of an airbnb property
